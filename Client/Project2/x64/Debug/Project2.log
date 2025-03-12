@@ -1,0 +1,42 @@
+﻿  Game.cpp
+C:\Users\sajpe\Desktop\Tic\SD\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: interfejs niebędący interfejsem dll class "std::runtime_error"użyto jako podstawowego dla interfejsu biblioteki dll class "sf::Exception"
+  (kompilowanie pliku źródłowego „Game.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+      zobacz deklarację „std::runtime_error”
+      C:\Users\sajpe\Desktop\Tic\SD\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      zobacz deklarację „sf::Exception”
+  
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(26,14): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(26,14): warning C4244:         with
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(26,14): warning C4244:         [
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(26,14): warning C4244:             T=unsigned int
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(26,14): warning C4244:         ]
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(27,15): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(27,15): warning C4244:         with
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(27,15): warning C4244:         [
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(27,15): warning C4244:             T=unsigned int
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(27,15): warning C4244:         ]
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(117,21): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(118,21): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(124,23): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(125,23): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(154,23): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(155,23): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(110,21): warning C4101: "y": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(110,6): warning C4101: "move": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(110,19): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+  main.cpp
+C:\Users\sajpe\Desktop\Tic\SD\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: interfejs niebędący interfejsem dll class "std::runtime_error"użyto jako podstawowego dla interfejsu biblioteki dll class "sf::Exception"
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+      zobacz deklarację „std::runtime_error”
+      C:\Users\sajpe\Desktop\Tic\SD\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      zobacz deklarację „sf::Exception”
+  
+C:\Users\sajpe\Desktop\Tic\SD\Project2\main.cpp(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\sajpe\Desktop\Tic\SD\Project2\main.cpp(34,10): warning C4101: "recvbuf": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+C:\Users\sajpe\Desktop\Tic\SD\Project2\Game.cpp(258,1): warning C4715: "Game::is_Legal”: niewszystkie ścieżki kodu zwracają wartość
+  Project2.vcxproj -> C:\Users\sajpe\Desktop\Tic\SD\Project2\x64\Debug\Project2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
